@@ -1,0 +1,21 @@
+{
+  "sucess_update": "Successfully updated",
+  "sucess_delete": "Successfully deleted",
+  "sucess_create": "Successfully created",
+  "sucess_login": "You have successfully logged in",
+  "sucess_logout": "You have successfully logged out",
+  "sucess_register": "You have successfully registered",
+  "reset_password": "You have successfully reset your password",
+  "reset_password_message": "Please go to your email and click on the link to reset your password",
+  "reset_password_message_new": "We will now redirect you to the login page where you can sign in with your new password",
+  "forgot_password_success": "Your password has been reset successfully.",
+  "reset_password_success": "We have sent you an email with instructions on how to reset your password.",
+  "company_login_success": "You have successfully logged in.",
+  "user_login_success": "You have successfully logged in.",
+  "company_onboarding_success": "You have successfully completed the onboarding process.",
+  "company_register_success": "You have successfully registered.",
+  "user_update_success": "Your profile has been updated successfully.",
+  "company_update_success": "Your profile has been updated successfully.",
+  "user_onboarding_success": "You have successfully completed the onboarding process.",
+  "user_register_success": "You have successfully registered."
+}

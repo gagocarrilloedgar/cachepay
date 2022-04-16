@@ -1,0 +1,21 @@
+{
+  "sucess_update": "Se ha actualizado correctamente",
+  "sucess_delete": "Eliminado correctamente",
+  "sucess_create": "Se ha creado correctamente",
+  "sucess_login": "Ha iniciado sesión correctamente",
+  "sucess_logout": "Se ha desconectado correctamente",
+  "sucess_register": "Te has registrado correctamente",
+  "reset_password": "Ha restablecido correctamente su contraseña",
+  "reset_password_message": "Vaya a su correo electrónico y haga clic en el enlace para restablecer su contraseña",
+  "reset_password_message_new": "Ahora lo redirigiremos a la página de inicio de sesión, donde podrá iniciar sesión con su nueva contraseña",
+  "forgot_password_success": "La contraseña se ha restablecido correctamente.",
+  "reset_password_success": "Le hemos enviado un correo electrónico con instrucciones sobre cómo restablecer su contraseña.",
+  "company_login_success": "Ha iniciado sesión correctamente.",
+  "user_login_success": "Ha iniciado sesión correctamente.",
+  "company_onboarding_success": "Ha completado correctamente el proceso de incorporación.",
+  "company_register_success": "Se ha registrado correctamente.",
+  "user_update_success": "Su perfil se ha actualizado correctamente.",
+  "company_update_success": "Su perfil se ha actualizado correctamente.",
+  "user_onboarding_success": "Ha completado correctamente el proceso de incorporación.",
+  "user_register_success": "Se ha registrado correctamente."
+}

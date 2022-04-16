@@ -1,0 +1,5 @@
+export { default as CompanyDashboard } from './dashboard'
+export { default as CompanyAccount } from './account'
+export { default as CompanyOnboarding } from './onboarding'
+export { default as CompanyRegister } from './register'
+export { default as CompanyLogin } from './login'
